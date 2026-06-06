@@ -6,5 +6,4 @@
 
  <h3 align="left">My Github Stats:</h3>
 
-[![Ritik's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ritik-Bhasarkar&show_icons=true&theme=dark#gh-dark-mode-only)]<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ritik-Bhasarkar&theme=dark&hide_border=true)<br/>
